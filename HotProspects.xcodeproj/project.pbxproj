@@ -16,6 +16,7 @@
 		7D93344527D935EC004194C1 /* ProspectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D93344427D935EC004194C1 /* ProspectsView.swift */; };
 		7D93344727D935F4004194C1 /* MeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D93344627D935F4004194C1 /* MeView.swift */; };
 		7D93344927D9463F004194C1 /* Prospect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D93344827D9463F004194C1 /* Prospect.swift */; };
+		7DE8E2A727F3BE180060C476 /* FileManager-DocumentsDirectory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE8E2A627F3BE180060C476 /* FileManager-DocumentsDirectory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		7D93344427D935EC004194C1 /* ProspectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProspectsView.swift; sourceTree = "<group>"; };
 		7D93344627D935F4004194C1 /* MeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeView.swift; sourceTree = "<group>"; };
 		7D93344827D9463F004194C1 /* Prospect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prospect.swift; sourceTree = "<group>"; };
+		7DE8E2A627F3BE180060C476 /* FileManager-DocumentsDirectory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FileManager-DocumentsDirectory.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				7D7F70E827E2745000E9FFB6 /* Info.plist */,
 				7D917EC727C06A0B00C92948 /* HotProspectsApp.swift */,
 				7D8812C827C9A27400B3C493 /* ContentView.swift */,
+				7DE8E2A627F3BE180060C476 /* FileManager-DocumentsDirectory.swift */,
 				7D93344827D9463F004194C1 /* Prospect.swift */,
 				7D93344427D935EC004194C1 /* ProspectsView.swift */,
 				7D7F70E627E2701A00E9FFB6 /* ImageSaver.swift */,
@@ -160,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7D93344727D935F4004194C1 /* MeView.swift in Sources */,
+				7DE8E2A727F3BE180060C476 /* FileManager-DocumentsDirectory.swift in Sources */,
 				7D7F70E727E2701A00E9FFB6 /* ImageSaver.swift in Sources */,
 				7D93344927D9463F004194C1 /* Prospect.swift in Sources */,
 				7D93344527D935EC004194C1 /* ProspectsView.swift in Sources */,
